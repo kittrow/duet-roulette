@@ -1,7 +1,9 @@
-body.generator {
-  background-image: url("https://i.imgur.com/nqci0fu.png");
-}
+
 
 body {
   background-color: #f7e1f5;
+}
+
+.portal {
+  position: center;
 }
