@@ -26,6 +26,14 @@ h1 {
   padding: 10px;
 }
 
+.rpatzClean {
+    top: 0%;
+    left: 0%;
+    position: absolute;
+    padding: 10px;
+  }
+
+
 /*
 #demo {
   text-align: center;
@@ -43,8 +51,9 @@ h1 {
     text-align: center;
     background: #fff;
     border-radius: 6px;
-    color: #black;
+    color: #004318;
     transition: 1s linear;
+    transition: opacity .25s ease-in-out;
     font-family: cursive;
     z-index: 2;
     position: absolute;
@@ -62,8 +71,9 @@ h1 {
     text-align: center;
     background: #fff;
     border-radius: 6px;
-    color: #black;
+    color: #004318;
     transition: 1s linear;
+    transition: opacity .25s ease-in-out;
 }
 
 #button {
