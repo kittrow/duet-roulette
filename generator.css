@@ -87,6 +87,9 @@ h1 {
 #button:hover {
   background: #03792b;
 }
+#button:active {
+  color: #f9ffd1;
+}
 
 /*.gem {
       display: block;
