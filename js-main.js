@@ -23,7 +23,7 @@ document.getElementById("demo").onclick = function(){myFunction()};
 }
 */
 
-var NumberOfWords = 50
+var NumberOfWords = 65
 
 var words = new BuildArray(NumberOfWords)
 
@@ -76,9 +76,25 @@ words[44] = "Enya"
 words[45] = "Puzzle painting"
 words[46] = "Oysterman"
 words[47] = "Antichrists"
-words[48] = "Pathetic ginger"
+words[48] = "Pinky ring"
 words[49] = "Hooves"
 words[50] = "Renaissance rave"
+words[51] = "Soft parade"
+words[52] = "Lucite sandwich"
+words[53] = "Cedric martyr"
+words[54] = "Tiny vinyl"
+words[55] = "More Jon Snow"
+words[56] = "Foxhall"
+words[57] = "Whirlwind thing"
+words[58] = "Aquarelles"
+words[59] = "Balthus style"
+words[60] = "Swashbuckled"
+words[61] = "Red hots"
+words[62] = "Roman numerals"
+words[63] = "Squirrel friends"
+words[64] = "Stendhal Syndrome"
+words[65] = "Painting hook"
+
 
 
 function BuildArray(size){
@@ -92,6 +108,9 @@ function PickRandomWord(frm) {
 // Generate a random number between 1 and NumberOfWords
 var rnd = Math.ceil(Math.random() * NumberOfWords)
 var rnd2 = Math.ceil(Math.random() * NumberOfWords)
+ if (rnd == rnd2) {
+   rnd2 = Math.ceil(Math.random() * NumberOfWords)
+ }
 
 // Display the word inside the text box
   frm.WordBox.value = words[rnd] + "     " + words[rnd2]
