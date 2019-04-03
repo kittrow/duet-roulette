@@ -32,6 +32,7 @@ h2 {
 #wordbox {
     /*opacity: 0;*/
     margin: 30px auto 0;
+    margin-left: -150px;
     display: block;
     width: 300px;
     height: 40px;
@@ -63,9 +64,9 @@ h2 {
 }
 
 #button {
-  background: #214c21;
+  background: #03792b;
     border: 0;
-    color: #f7e1f5;
+    color: #02f054;
     font-size: 20px;
     padding: 1em 2em;
     cursor: pointer;
@@ -74,6 +75,7 @@ h2 {
     text-align: center;
     border-radius: 40px;
     font-family: cursive;
+    top: 100px;
 }
 
 .gem {
