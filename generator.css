@@ -81,6 +81,9 @@ h1 {
     top: 100px;
     margin-top: 50px;
 }
+button.focus {
+  outline:0;
+}
 
 /*.gem {
       display: block;

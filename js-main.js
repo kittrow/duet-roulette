@@ -91,7 +91,8 @@ return this
 function PickRandomWord(frm) {
 // Generate a random number between 1 and NumberOfWords
 var rnd = Math.ceil(Math.random() * NumberOfWords)
+var rnd2 = Math.ceil(Math.random() * NumberOfWords)
 
 // Display the word inside the text box
-frm.WordBox.value = words[rnd]
+  frm.WordBox.value = words[rnd] + "     " + words[rnd2]
 }
