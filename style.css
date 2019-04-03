@@ -24,3 +24,11 @@ a:hover {
 a:active {
   color: #5a7f4d;
   }
+
+
+/* OLD BUTTON
+<div class="button"><button type="button" onclick="myFunction()">Try Me!</button>
+</div>
+
+<p id="demo"></p>
+*/

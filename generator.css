@@ -2,11 +2,12 @@ h2 {
   text-align: center;
 }
 
-.button {
+/*.button {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+*/
 /*.button {
   margin: 0;
   position: absolute;
@@ -21,6 +22,63 @@ h2 {
   position: absolute;
   padding: 10px;
 }
+
+/*
 #demo {
   text-align: center;
+}
+*/
+
+#wordbox {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    color: #black;
+    transition: 1s linear;
+    font-family: cursive;
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#wordbox2 {
+    /*opacity: 0;*/
+    margin: 30px auto 0;
+    display: block;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    background: #fff;
+    border-radius: 6px;
+    color: #black;
+    transition: 1s linear;
+}
+
+#button {
+  background: #214c21;
+    border: 0;
+    color: #f7e1f5;
+    font-size: 20px;
+    padding: 1em 2em;
+    cursor: pointer;
+    margin: 0 auto 60px;
+    display: block;
+    text-align: center;
+    border-radius: 40px;
+    font-family: cursive;
+}
+
+.gem {
+      margin: 30px auto 0;
+      display: block;
+      z-index: 1;
+      position: relative;
 }
