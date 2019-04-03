@@ -5,6 +5,20 @@ h1 {
   text-shadow: 1px 1px #02f054;
 }
 
+a.homepage {
+  text-decoration: none;
+}
+
+a.homepage:visited {
+  color: #03792b;
+  }
+a.homepage:hover {
+  color: #03792b;
+  }
+a.homepage:active {
+  color: #03792b;
+  }
+
 .rpatz {
   bottom: 0%;
   right: 0%;
