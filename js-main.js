@@ -108,7 +108,7 @@ function PickRandomWord(frm) {
 // Generate a random number between 1 and NumberOfWords
 var rnd = Math.ceil(Math.random() * NumberOfWords)
 var rnd2 = Math.ceil(Math.random() * NumberOfWords)
- if (rnd == rnd2) {
+ while(rnd === rnd2) {
    rnd2 = Math.ceil(Math.random() * NumberOfWords)
  }
 
