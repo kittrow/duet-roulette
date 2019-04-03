@@ -25,11 +25,3 @@ a:hover {
 a:active {
   color: #03792b;
   }
-
-
-/* OLD BUTTON
-<div class="button"><button type="button" onclick="myFunction()">Try Me!</button>
-</div>
-
-<p id="demo"></p>
-*/

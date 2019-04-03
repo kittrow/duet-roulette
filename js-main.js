@@ -1,27 +1,3 @@
-/* button.onclick = function "My Function"(){
-  var myArray = ['January', 'February', 'March'];
-  var rand = myArray[Math.floor(Math.random() * myArray.length)];
-}
-*/
-
-/*function myFunction(){
-  var myArray = ['January', 'February', 'March'];
-var rand = myArray[(Math.random() * myArray.length) | 0]
-
-}
-
-document.getElementById("demo").onclick = function(){myFunction()};
-
-/*function myFunction(){
-  var myArray = ['January', 'February', 'March'];
-  var rand = myArray[Math.floor(Math.random() * myArray.length)];
-}
-*/
-
-/*function myFunction(){
-  document.getElementById("demo").innerHTML = "Hello World";
-}
-*/
 
 var NumberOfWords = 65
 
@@ -94,6 +70,11 @@ words[62] = "Roman numerals"
 words[63] = "Squirrel friends"
 words[64] = "Stendhal Syndrome"
 words[65] = "Painting hook"
+words[66] = "Shitty Italy"
+words[67] = "Rivendale"
+words[68] = "Chainmail"
+words[69] = "Two-in-one"
+words[70] = "Quagmire"
 
 
 
