@@ -67,7 +67,7 @@ h1 {
 }
 
 #button {
-  background: #03792b;
+    background: #004318;
     border: 0;
     color: #02f054;
     font-size: 20px;
@@ -81,9 +81,12 @@ h1 {
     top: 100px;
     margin-top: 50px;
     outline: none;
-    /*box-shadow: 1px 1px #02f054;*/
+
 }
 
+#button:hover {
+  background: #03792b;
+}
 
 /*.gem {
       display: block;
