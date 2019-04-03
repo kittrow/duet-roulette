@@ -23,7 +23,7 @@ document.getElementById("demo").onclick = function(){myFunction()};
 }
 */
 
-var NumberOfWords = 28
+var NumberOfWords = 50
 
 var words = new BuildArray(NumberOfWords)
 
@@ -57,6 +57,30 @@ words[25] = "Viktor Krum"
 words[26] = "Saltine Martini"
 words[27] = "Snowglobe"
 words[28] = "Schnozberries"
+words[29] = "Surf rock"
+words[30] = "Skater boys"
+words[31] = "Fairy portrait"
+words[32] = "Maiden name"
+words[33] = "Dog friends"
+words[34] = "Art tarts"
+words[35] = "smallgoth"
+words[36] = "Talgarth Toad"
+words[37] = "Essex emergency"
+words[38] = "Frog possibilities"
+words[39] = "Adam Driver"
+words[40] = "Hugh cartoon"
+words[41] = "Tender buttons"
+words[42] = "Punk fanzines"
+words[43] = "Glacier fruits"
+words[44] = "Enya"
+words[45] = "Puzzle painting"
+words[46] = "Oysterman"
+words[47] = "Antichrists"
+words[48] = "Pathetic ginger"
+words[49] = "Hooves"
+words[50] = "Renaissance rave"
+/*words[50] = "Straight girls"
+sex ballet*/
 
 function BuildArray(size){
 this.length = size

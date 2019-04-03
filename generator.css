@@ -1,5 +1,8 @@
-h2 {
+h1 {
   text-align: center;
+  font-family: cursive;
+  color: #03792b;
+  text-shadow: 1px 1px #02f054;
 }
 
 /*.button {
@@ -45,7 +48,7 @@ h2 {
     font-family: cursive;
     z-index: 2;
     position: absolute;
-    top: 50%;
+    top: 350px;
     left: 50%;
 }
 
@@ -68,7 +71,7 @@ h2 {
     border: 0;
     color: #02f054;
     font-size: 20px;
-    padding: 1em 2em;
+    padding: 1em 1.5em;
     cursor: pointer;
     margin: 0 auto 60px;
     display: block;
@@ -76,11 +79,24 @@ h2 {
     border-radius: 40px;
     font-family: cursive;
     top: 100px;
+    margin-top: 50px;
 }
 
-.gem {
-      margin: 30px auto 0;
+/*.gem {
       display: block;
       z-index: 1;
-      position: relative;
+      position: absolute;
+      top: 250px;
+      margin-left: auto;
+      margin-right: auto;
+}
+*/
+
+.gem {
+      display: block;
+      z-index: 1;
+      position: sticky;
+      margin-top: -40px;
+      margin-left: auto;
+      margin-right: auto;
 }
