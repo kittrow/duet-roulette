@@ -47,7 +47,7 @@ words[15] = "Knoll hole"
 words[16] = "Female trouble"
 words[17] = "Angst poem"
 words[18] = "Beetlebum"
-words[19] = "Horny Sigourney"
+words[19] = "Fall obligation"
 words[20] = "Reindeer season"
 words[21] = "Chamomile"
 words[22] = "Church wood"
@@ -79,8 +79,7 @@ words[47] = "Antichrists"
 words[48] = "Pathetic ginger"
 words[49] = "Hooves"
 words[50] = "Renaissance rave"
-/*words[50] = "Straight girls"
-sex ballet*/
+
 
 function BuildArray(size){
 this.length = size
