@@ -80,10 +80,10 @@ h1 {
     font-family: cursive;
     top: 100px;
     margin-top: 50px;
+    outline: none;
+    /*box-shadow: 1px 1px #02f054;*/
 }
-button.focus {
-  outline:0;
-}
+
 
 /*.gem {
       display: block;
