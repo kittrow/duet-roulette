@@ -113,7 +113,7 @@ words[105] = "Easter hunt"
 words[106] = "Mystery Gang"
 words[107] = "Moonglow"
 words[108] = "St. Sebastian"
-words[109] = "Gibson Girl"
+words[109] = "Gibson Girls"
 words[110] = "Sangfroid"
 
 
