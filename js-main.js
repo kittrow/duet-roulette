@@ -1,5 +1,5 @@
 
-var NumberOfWords = 70
+var NumberOfWords = 110
 
 var words = new BuildArray(NumberOfWords)
 
@@ -75,6 +75,49 @@ words[67] = "Rivendale"
 words[68] = "Chainmail"
 words[69] = "Two-in-one"
 words[70] = "Quagmire"
+words[71] = "Straight girls"
+words[72] = "Horny Sigourney"
+words[73] = "Sleeper hit"
+words[74] = "Desperate Housewives"
+words[75] = "Bedchamber crisis"
+words[76] = "Coxcomb"
+words[77] = "Codpieces"
+words[78] = "Dirndls"
+words[79] = "Cassata cake"
+words[80] = "Drunk crumpet"
+words[81] = "Pepto puppy"
+words[82] = "Cat Stevens"
+words[83] = "Finger fool"
+words[84] = "Star-jelly"
+words[85] = "Mitzvah airbrush"
+words[86] = "Meade"
+words[87] = "Pyrotechnics"
+words[88] = "Conceptual cousins"
+words[89] = "Fruit soup"
+words[90] = "Forty-ounce"
+words[91] = "Quentin Blake"
+words[92] = "Funfetti"
+words[93] = "Clingstones"
+words[94] = "Apple butter"
+words[95] = "Fantasy bits"
+words[96] = "Shagatha Christie"
+words[97] = "Blueberry flowers"
+words[98] = "Cheryl Blossom"
+words[99] = "Celestial prude"
+words[100] = "Service bell"
+words[101] = "Peccadilloes"
+words[102] = "Tower porn"
+words[103] = "Cleavage rhombus"
+words[104] = "Mouse proud"
+words[105] = "Easter hunt"
+words[106] = "Mystery Gang"
+words[107] = "Moonglow"
+words[108] = "Poetic complications"
+words[109] = "Gibson Girl"
+words[110] = "Sangfroid"
+
+
+
 
 
 
