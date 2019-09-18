@@ -1,5 +1,5 @@
 
-var NumberOfWords = 110
+var NumberOfWords = 112
 
 var words = new BuildArray(NumberOfWords)
 
@@ -115,7 +115,8 @@ words[107] = "Moonglow"
 words[108] = "St. Sebastian"
 words[109] = "Gibson Girls"
 words[110] = "Sangfroid"
-
+words[111] = "Kicky wicky"
+words[112] = "Quidditch tits"
 
 
 
